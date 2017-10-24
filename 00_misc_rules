@@ -1,4 +1,5 @@
-print always adds a newline [opt: print('Hello', end= '/') #prints '/' after Hello]
-any function with no return/ just return, returns None
+Print always adds a newline [opt: print('Hello', end= '/') #prints '/' after Hello]
+Any function with no return/ just return, returns None
 Variables have 2  possible scopes: Local and Global
 [1,2,3,4] is a single list value that contains multiple values
+Dictionaries are unordered unlike lists, hence can't be sliced. Order does not matter for 2 dicts to be equal.
