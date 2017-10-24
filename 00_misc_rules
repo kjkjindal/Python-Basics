@@ -1,0 +1,4 @@
+print always adds a newline [opt: print('Hello', end= '/') #prints '/' after Hello]
+any function with no return/ just return, returns None
+Variables have 2  possible scopes: Local and Global
+[1,2,3,4] is a single list value that contains multiple values
