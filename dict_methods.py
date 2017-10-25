@@ -31,3 +31,15 @@ if (name in car):   #or name in car.keys()
     
 else:
     print ("no!")
+
+
+#get()
+#gets a value for given key, or a predefined default value
+print (car.get('color', None))
+print (car.get('build', None))
+
+#setdefault()
+#sets default value for a key, adds it to the dict
+car.setdefault('type', 'sedan')
+print (car)
+
